@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Марат Фатыхов](https://up.htmlacademy.ru/htmlcss/20/user/116678).
+* Наставник: [Сергей Попенко](https://up.htmlacademy.ru/htmlcss/20/user/66243).
 
 ---
 
